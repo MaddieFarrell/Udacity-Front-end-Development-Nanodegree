@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. Some new skills that I learned was making some words not bolded with span. Also using strike was new to me too.
+2. Making all the headers, the paragraphs and the image was easy to me.
+3. The most difficult thing for me was to make “By” in the second header have a normal font.
+4. So problem solving strategies was to organize my code and figure out how what needs to be a link or italicized. Also taking a break once in a while helped me clear my head.
