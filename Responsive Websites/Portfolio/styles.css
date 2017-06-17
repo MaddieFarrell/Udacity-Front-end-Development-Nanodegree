@@ -2,19 +2,25 @@ body {
   font-family: 'Poppins', sans-serif;
   color: #4d4d4d;
 }
-.light-text {
-  font-weight: lighter;
-}
+
 .title-super {
   font-size: 55px;
 }
+
 .title-logo {
   margin-top: 20px;
 }
+
 .text-muted {
   color: #003d66;
 }
+
 hr {
     height: 2px;
-    width: 1100px;
+    width: 100%;
     background-color: #003d66;
+ }
+
+ .git-link {
+ 	color: #8f246b;
+ }
